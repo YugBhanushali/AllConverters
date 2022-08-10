@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: #93B5C6;
+    
+}
+
+h1{
+    /* font-family: 'Bebas Neue', cursive; */
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 80px;
+    font-size: 50px;
+    color: #FFE3E3;
+}
+
+.takingInput{
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Didact Gothic', sans-serif; */
+    color: #FFE3E3;
+
+}
+.takingInput button{
+    border-radius: 10px;
+    box-sizing: 20px;
+    font-size: 20px;
+    padding:3px 8px 3px 8px;
+    margin: 0 10px 0 10px;
+    background-color: #FFE3E3;
+    font-family: 'Montserrat', sans-serif;
+    border: #000000;
+    border: 3px;
+}
+.takingInput input{
+    border-radius: 10px;
+    font-size: 20px;
+    padding:3px 8px 3px 8px;
+    background-color: #FFE3E3;
+    font-family: 'Montserrat', sans-serif;
+    border: #93B5C6;
+}
+.takingInput p{
+    font-size: 25px;
+}
+.answer{
+    font-size: 50px;
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(16, 240, 109);
+}
